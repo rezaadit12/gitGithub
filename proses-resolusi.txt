@@ -1,3 +1,4 @@
 membuat web personal menggunakan framework laravel
 memahami logika dalam sebuat permrograman
-mencoba hal lain
+mencoba hal yang bekaitan dengan typescript
+
