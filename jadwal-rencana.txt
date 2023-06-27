@@ -3,3 +3,5 @@ untuk mengisi hari libur saya
 agar lebih bermanfaat
 
 1. belajar manajement git dan github
+2. belajar framework php
+3. mengulang 2 materi tersebut
